@@ -12,8 +12,8 @@ class ThisIsJava{
 }
 class TestThis1{
     public static void main(String[] args){
-        ThisIsJava s1=new ThisIsJava("Simon",90000);
-        ThisIsJava s2=new ThisIsJava("Waweru",50000);
+        ThisIsJava s1=new ThisIsJava("Simon",80000);
+        ThisIsJava s2=new ThisIsJava("Waweru",70000);
         s1.display();
         s2.display();
     }}
